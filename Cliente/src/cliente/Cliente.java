@@ -12,7 +12,7 @@ public class Cliente {
             System.out.println("Digite seu nome: ");
             String nome = teclado.nextLine();
             
-            Socket conexaoServidor = new Socket("192.168.0.117", 12345);
+            Socket conexaoServidor = new Socket("IP do servidor", 12345);
             
             new Thread(() ->{
                 try{
