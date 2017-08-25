@@ -1,0 +1,8 @@
+/Servidor/nbproject/
+/Servidor/test/
+/Cliente/nbproject/
+/Cliente/test/
+/Servidor/build/
+/Cliente/build/
+build.xml
+manifest.mf
